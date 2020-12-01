@@ -1,0 +1,31 @@
+
+main{
+    border: solid 2px black;
+    width: 480px;
+    height: 1055px;
+    margin: 0 auto;
+}
+
+.box-a{
+    width:480px;
+    height: 75px;
+    border: solid 1px black;
+}
+
+.box-b{
+    width: 480px;
+    height: 150px;
+    border: solid 1px black;
+}
+
+.box-c{
+    width: 480px;
+    height: 125px;
+    border: solid 1px black;
+}
+
+.box-e{
+    width: 240px;
+    height: 250px;
+    border: solid 1px black;
+}
